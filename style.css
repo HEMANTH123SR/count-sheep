@@ -13,10 +13,10 @@ body{
   }
   #sheep-img{
         background-image: url(/istockphoto-165526963-612x612.jpg); 
-    /* background-repeat: no-repeat;  */
+    background-repeat: no-repeat; 
   width: 76%;
   height: 450px;
-  border: 2px solid black;
+;
 
   
   }
